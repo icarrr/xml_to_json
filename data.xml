@@ -1,0 +1,53 @@
+<problem>
+<p>Berpotensi mewujudkan ketahanan pangan di Indonesia merupakan keunggulan dari bidang?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Peternakan</choice>
+    <choice correct="true">Pertanian</choice>
+    <choice correct="false">Industri</choice>
+    <choice correct="false">Perdagangan</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Dibawah ini merupakan permasalahan pertanian di Indonesia, kecuali?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Ketergantungan impor</choice>
+    <choice correct="false">Kurangnya tenaga kerja baru</choice>
+    <choice correct="true">Sumber daya alam yang melimpah</choice>
+    <choice correct="false">Bencana alam</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Salah satu tanaman hidroponik yang tidak membutuhkan cahaya yang intens atau panas adalah?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Tomat merah</choice>
+    <choice correct="true">Lobak</choice>
+    <choice correct="false">Daun bawang</choice>
+    <choice correct="false">Seledri</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Tahapan awal dalam memulai proses menanam dengan teknik hidroponik yaitu?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">Mempersiapkan lahan</choice>
+    <choice correct="false">Mempersiapkan benih sayuran</choice>
+    <choice correct="false">Mempersiapkan pupuk</choice>
+    <choice correct="false">Mempersiapkan pekerja</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Perbedaan dasar teknik menanam dengan hidroponik dan teknik konvensional yaitu?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Hidroponik dengan tanah dan Konvensional dengan pupuk kandang</choice>
+    <choice correct="true">Hidroponik dengan air dan Konvensional dengan tanah</choice>
+    <choice correct="false">Hidroponik dengan pupuk kandang dan Konvensional dengan air</choice>
+    <choice correct="false">Hidroponik dengan menumpang pada tanaman lain dan Konvensional berdiri di tanamannya sendiri</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

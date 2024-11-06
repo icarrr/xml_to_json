@@ -1,0 +1,132 @@
+[
+    {
+        "problem": "Berpotensi mewujudkan ketahanan pangan di Indonesia merupakan keunggulan dari bidang?",
+        "type": "MultipleChoice",
+        "multiplechoiceresponse": {
+            "choicegroup": {
+                "choice": [
+                    {
+                        "@correct": "false",
+                        "#text": "Peternakan"
+                    },
+                    {
+                        "@correct": "true",
+                        "#text": "Pertanian"
+                    },
+                    {
+                        "@correct": "false",
+                        "#text": "Industri"
+                    },
+                    {
+                        "@correct": "false",
+                        "#text": "Perdagangan"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "problem": "Dibawah ini merupakan permasalahan pertanian di Indonesia, kecuali?",
+        "type": "MultipleChoice",
+        "multiplechoiceresponse": {
+            "choicegroup": {
+                "choice": [
+                    {
+                        "@correct": "false",
+                        "#text": "Ketergantungan impor"
+                    },
+                    {
+                        "@correct": "false",
+                        "#text": "Kurangnya tenaga kerja baru"
+                    },
+                    {
+                        "@correct": "true",
+                        "#text": "Sumber daya alam yang melimpah"
+                    },
+                    {
+                        "@correct": "false",
+                        "#text": "Bencana alam"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "problem": "Salah satu tanaman hidroponik yang tidak membutuhkan cahaya yang intens atau panas adalah?",
+        "type": "MultipleChoice",
+        "multiplechoiceresponse": {
+            "choicegroup": {
+                "choice": [
+                    {
+                        "@correct": "false",
+                        "#text": "Tomat merah"
+                    },
+                    {
+                        "@correct": "true",
+                        "#text": "Lobak"
+                    },
+                    {
+                        "@correct": "false",
+                        "#text": "Daun bawang"
+                    },
+                    {
+                        "@correct": "false",
+                        "#text": "Seledri"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "problem": "Tahapan awal dalam memulai proses menanam dengan teknik hidroponik yaitu?",
+        "type": "MultipleChoice",
+        "multiplechoiceresponse": {
+            "choicegroup": {
+                "choice": [
+                    {
+                        "@correct": "true",
+                        "#text": "Mempersiapkan lahan"
+                    },
+                    {
+                        "@correct": "false",
+                        "#text": "Mempersiapkan benih sayuran"
+                    },
+                    {
+                        "@correct": "false",
+                        "#text": "Mempersiapkan pupuk"
+                    },
+                    {
+                        "@correct": "false",
+                        "#text": "Mempersiapkan pekerja"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "problem": "Perbedaan dasar teknik menanam dengan hidroponik dan teknik konvensional yaitu?",
+        "type": "MultipleChoice",
+        "multiplechoiceresponse": {
+            "choicegroup": {
+                "choice": [
+                    {
+                        "@correct": "false",
+                        "#text": "Hidroponik dengan tanah dan Konvensional dengan pupuk kandang"
+                    },
+                    {
+                        "@correct": "true",
+                        "#text": "Hidroponik dengan air dan Konvensional dengan tanah"
+                    },
+                    {
+                        "@correct": "false",
+                        "#text": "Hidroponik dengan pupuk kandang dan Konvensional dengan air"
+                    },
+                    {
+                        "@correct": "false",
+                        "#text": "Hidroponik dengan menumpang pada tanaman lain dan Konvensional berdiri di tanamannya sendiri"
+                    }
+                ]
+            }
+        }
+    }
+]
